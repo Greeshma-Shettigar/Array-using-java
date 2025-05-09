@@ -1,4 +1,4 @@
-
+/* find the element in array using linear search*/
 import java.util.Scanner;
 
 public class linearSearch{
